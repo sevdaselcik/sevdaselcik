@@ -1,17 +1,16 @@
 # 🖖🏻 Sevda Selçik
 Click the links below to navigate within this page:
 
-👋🏻About
-🎁Now
-🎁Experience
-🎁Projects
-⏳Education
-🧠Research
-📚Publications
-📚Awards
-💭Unrealised Projects
+- 👋🏻"About", [About](https://ge.com/tr/)  
 
-
+- 🎁Now
+- 🎁Experience
+- 🎁Projects
+- ⏳Education
+- 🧠Research
+- 📚Publications
+- 📚Awards
+- 💭Unrealised Projects
 
 # 👋🏻About
 
