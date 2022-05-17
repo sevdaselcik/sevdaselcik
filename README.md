@@ -25,8 +25,7 @@ I am currently researching & analying the Quran to understand the story of human
 If you like to colloborate or share or ask or others, get in touch:
 
 Email: me at sevda.selcik dot icloud com
-Twitter: @ylmzbn
-Github: SS
+Github: SmartfyCo
 
 🔝 back to top.
 
@@ -44,17 +43,27 @@ Since 2020 I've consulted for organisations on a freelance basis - based on more
 🔝 back to top.
 
 # 🎁Experience
+
+Some organisations that I've worked with:
+
+- [Halkbank](https://halkbank.com.tr/) 
+- [Turk Telekom](https://turktelekom.com.tr/) 
+- [General Electric](https://ge.com/tr/)  
+- [Borusan Mannessmann](https://borusanmannesmann.com)  
+- [Borusan Caterpillar](https://borusancat.com/tr) 
+- [Ak Investment](https://akyatirim.com.tr/)  
+
+Some roles that I've fulfilled:
 - Data Architect & Data Model Administrator 
+- Senior Business Analyst 
 - Software Developer & Application Developer 
 - Senior System Analyst 
 - Data Warehouse & Business Intelligence Group Manager 
 - Enterprise KPI Performance Reporting Program Manager
 - Gblobal Business Solutions Consultant
 - Business Intelligence Unit Manager
-
-Since 2019 I've been the Lecturer in Creative Computing on the Diploma in Creative Computing at the Creative Computing Institute, Camberwell, University of the Arts London. Watch a presentation from me and the inaugural cohort.
-
-Since 2017 I've been a mentor at Arts Emergency, which aims to increase access to the arts and humanities to young people from disadvantaged backgrounds.
+- Research & Development 
+- Writer 
 
 🔝 back to top.
 
@@ -79,7 +88,7 @@ Since 2017 I've been a mentor at Arts Emergency, which aims to increase access t
 # 🧠Research
 Since 2017 I've been researching on two long term projects:
 - Universal Info: Text Intelligence project to analyze information in the Quran.
-- Digital Art: To produce digital art to express the information based on Quran.
+- Digital Art: To produce digital art to express the universe.
 
 🔝 back to top.
 
@@ -107,8 +116,6 @@ Since 2017 I've been researching on two long term projects:
 - 👀 I’m interested in ML/AI/BigData/Algorithms/FutureTrends
 - 🌱 I’m currently learning Emerging Techs
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- kmklmlkmlknlknlknlknlklknlnk
 
 <!---
 smartfyco/smartfyco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
