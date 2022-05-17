@@ -81,7 +81,7 @@ Some technical skills that I've used so far:
 
 # 🎁Projects
 - **IBM Financial Services Data Model Administration** (Currently **IBM Infosphere Data Architect**) on **IBM DB2** 
-- **Corporate Credit Accounts, Regulatory Reports, Management Reports, Customer Profitability, Service Contracts 
+- **Corporate Credit Accounts, Regulatory Reports, Management Reports, Customer Profitability, Service Contracts** 
 - **IBM DB2 Using IBM Visual Age, Visual Age for Java, IBM Mainframe, PL SQL, JCL**
 - **Enterprise KPI Performance Reporting, Dashboards**
 - **Improving Financial Data Integration of Journal Entries to the General Ledger & Billing Data Integration into the Internal Billing system bt designing new solutions**
