@@ -13,10 +13,6 @@ Click the links below to navigate within this page:
 🎁Projects
 ⏳Education
 🧠Research
-📽Presentations
-🛠Workshops
-🕸Other websites
-🎪Exhibitions
 📚Publications
 📚Awards
 💭Unrealised Projects
@@ -79,33 +75,31 @@ Since 2017 I've been a mentor at Arts Emergency, which aims to increase access t
 
 # 🎁Projects
 
-**[Halkbank](https://halkbank.com.tr/) 1996 - 2003**
-- **IBM Financial Services Data Model Administration** including Coordination, Management, Design, Architection, Modelling, Documentation, Conducting Trainings, Acting as a Liaison Business & Technical Teams)(Currently **IBM Infosphere Data Architect**) on **IBM DB2**
-- **Software Development** of Corporate Credit Accounts, Regulatory Reports, Management Reports, other projects based on **IBM DB2 Using IBM Visual Age, Visual Age for Java, IBM Mainframe, PL SQL, JCL** .
+- **IBM Financial Services Data Model Administration** including Coordination, Management, Design, Architection, Modelling, Documentation, Conducting Trainings, Acting as a Liaison Business & Technical Teams)(Currently **IBM Infosphere Data Architect**) on **IBM DB2** **[Halkbank](https://halkbank.com.tr/) 1996 - 2003**
+- **Software Development** of Corporate Credit Accounts, Regulatory Reports, Management Reports, other projects based on **IBM DB2 Using IBM Visual Age, Visual Age for Java, IBM Mainframe, PL SQL, JCL** .**[Halkbank](https://halkbank.com.tr/) 1996 - 2003**
 
-**[Turk Telekom](https://turktelekom.com.tr/) 2008 - 2017**
-- "Data Warehouse & Business Intelligence Group Manager & Enterprise KPI Performance Reporting Program Manager", 
+- "Data Warehouse & Business Intelligence Group Manager & Enterprise KPI Performance Reporting Program Manager", **[Turk Telekom](https://turktelekom.com.tr/) 2008 - 2017**
 
-**[General Electric](https://ge.com/tr/)**
 - Broughout Process Innovation by Designing & Developing & Launching global process Automation Business Solutions to improve Financial Data Integration of 
-**Journal Entries to the General Ledger & Billing Data Integration into the Internal Billing system** that were both on **IBM Mainframe**.) 
+**Journal Entries to the General Ledger & Billing Data Integration into the Internal Billing system** that were both on **IBM Mainframe**.) **[General Electric](https://ge.com/tr/)**
 
-**[Borusan Mannessmann](https://borusanmannesmann.com)**
-- "Business Intelligence Unit Manager", 
+- "Business Intelligence Unit Manager", **[Borusan Mannessmann](https://borusanmannesmann.com)**
 
-**[Borusan Caterpillar](https://borusancat.com/tr)**
-- "Business Intelligence Unit Manager", 
+- "Business Intelligence Unit Manager", **[Borusan Caterpillar](https://borusancat.com/tr)**
 
-**[Ak Investment](https://akyatirim.com.tr/)**
-- "Senior System Analyst & Developer "
+- "Senior System Analyst & Developer " **[Ak Investment](https://akyatirim.com.tr/)**
 
 🔝 back to top.
 
 # 🧠Research
-# 📽Presentations
-# 🛠Workshops
-# 🕸Other websites
-# 🎪Exhibitions
+Since 2017 I've been researching on two long term projects:
+
+Universal Info: Text Intelligence project to analyze information in the Quran.
+Digital Art: To produce digital art to express the information based on Quran.
+
+
+🔝 back to top.
+
 # 📚Publications
 
 **Thesis : **
