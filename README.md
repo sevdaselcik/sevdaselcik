@@ -18,7 +18,7 @@ In learning I'm interested in **data modelling**, **knowledge graphs**, **digita
 
 I love being a catalyst for learning for both students and clients, helping them to build capacity and enable them to pass on their knowledge to others. I particuarly love thinking about new uses of technolgy as part of a group and then helping to make those uses happen.
 
-Ever since I read the Holly book of Quran I've been interested in the mechanisms or systems that enable stories to be told or society to function. I am interested in making work that express between people, places, stories and objects through the use of technology & art.
+Ever since I read the Holly book of Quran, I've realized there are lots of inspirations & strories & ideas to be expressed & puzzles to be solved & universal processes to be understood that can be the subject of digital art work such as augmented reality. I've been interested in the mechanisms or systems that enable stories to be told or society to function. I am interested in making work that express between people, places, stories and objects through the use of technology & art.
 
 I am currently researching & analying the Quran to understand the story of human, to create art & to write strories / books & to design augmented reality sculpture based on .
 
