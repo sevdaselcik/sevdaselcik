@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Emerging Techs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- kmklmlkmlknlknlknlknlklknlnk
 
 <!---
 smartfyco/smartfyco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
