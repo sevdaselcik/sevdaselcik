@@ -70,11 +70,11 @@ Since 2017 I've been a mentor at Arts Emergency, which aims to increase access t
 # ⏳Education
 Since 2020 I've consulted for organisations on a freelance basis - based on more than 20 years of experience working on interactive projects that blend the analogue and digital to make something new. Some organisations that I've worked with:
 
-**Bachelor of Science, Mathematics & Computer Science**, [Middle East Technical University](https://metu.edu.tr/tr)
+**Bachelor of Science, Mathematics & Computer Science**, [Middle East Technical University](https://metu.edu.tr/tr), 1996
 
-**Master, Social Science, Business Administration**, [Istanbul University](https://istanbul.edu.tr/tr/_)
+**Master, Social Science, Business Administration**, [Istanbul University](https://istanbul.edu.tr/tr/_), 2019
 
-**Doctorate, Social Science, Business Administration**, [Istanbul University](https://istanbul.edu.tr/tr/_)
+**Doctorate, Social Science, Business Administration**, [Istanbul University](https://istanbul.edu.tr/tr/_) Ongoing
 
 
 
