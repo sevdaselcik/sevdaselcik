@@ -31,14 +31,7 @@ Github: SmartfyCo
 
 
 # 🎁Now
-Since 2020 I've consulted for organisations on a freelance basis - based on more than 20 years of experience working on interactive projects that blend the analogue and digital to make something new. Some organisations that I've worked with:
-
-- [Halkbank](https://halkbank.com.tr/) 
-- [Turk Telekom](https://turktelekom.com.tr/) 
-- [General Electric](https://ge.com/tr/)  
-- [Borusan Mannessmann](https://borusanmannesmann.com)  
-- [Borusan Caterpillar](https://borusancat.com/tr) 
-- [Ak Investment](https://akyatirim.com.tr/)  
+Since 2020 I've consulted for organisations on a freelance basis - based on more than 20 years of experience working on information systems.
 
 🔝 back to top.
 
@@ -98,8 +91,8 @@ Since 2017 I've been researching on two long term projects:
 - **Financial bankruptcy prediction: An application in the BIST**, Publisher: [YOK.Gov.tr](https://tez.yok.gov.tr/UlusalTezMerkezi/tezDetay.jsp?id=k3VQwG_MCX6WHZd4UexUsA&no=-pKkv-hlRGl6fHMaD67q7w), 2019
 
 **Congress :**
-- Social Science, Business Administration**, [Istanbul University](https://istanbul.edu.tr/tr/_), 2019
-- Social Science, Business Administration**, [Yıldız University](https://istanbul.edu.tr/tr/_), 2019
+- Yildiz International Social Sciences Congress**, [Yildiz University](https://sbe.yildiz.edu.tr/media/files/KongreProgramSON.pdf), 2019
+- III. International Conference on Global Competition and Innovation Management, [Istanbul University](https://kry2021.istanbul.edu.tr/tr/_), 2019
 
 **Book :**
 - **Financial bankruptcy prediction: An application in the BIST**, Publisher: [IAV](https://iav.org.tr/prof-dr-m-orhan-dikmen-arastirma-yarismasi-ile-iktisadi-arastirmalar-vakfi-tez-odullendirmesi-yarismasi-odul-toreni-2/), 2019
