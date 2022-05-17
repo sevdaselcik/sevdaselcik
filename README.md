@@ -46,7 +46,7 @@ Github: SS
 
 Since 2020 I've consulted for organisations on a freelance basis - based on more than 20 years of experience working on interactive projects that blend the analogue and digital to make something new. Some organisations that I've worked with:
 
-[Pamukbank/Halkbank](https://https://www.halkbank.com.tr/)
+[Halkbank](https://halkbank.com.tr/)
 
 [Turk Telekom](https://github.com/github-dark.png#gh-light-mode-only)
 
