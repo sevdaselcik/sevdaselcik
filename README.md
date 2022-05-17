@@ -65,7 +65,7 @@ Some technical skills that I've used so far:
 - **Microsoft:** Visual Basic, SQL ServerManagement Studio (SSMS), OLAP, Datamart, Analysis Services (SSAS), Integration Services (SSIS), Reporting Services (SSRS) Azure Cloud, Azure Machine Learning Service.
 - **SAP**: BI, BO, Design Studio, HANA
 - **Google:** Cloud
-- **Data Modelling & Data Integration:* Snowflake, Informatica, ..
+- **Data Modelling & Data Integration:** Snowflake, Informatica, ..
 - **Dashboard:** SAP, Qlikview, Dundas, ..
 - **KPI Insight:**
 
