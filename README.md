@@ -87,8 +87,8 @@ Since 2017 I've been a mentor at Arts Emergency, which aims to increase access t
 - "Data Warehouse & Business Intelligence Group Manager & Enterprise KPI Performance Reporting Program Manager", 
 
 **[General Electric](https://ge.com/tr/)**
-- Broughout Process Innovation by Designing & Developming & Launchşing global process Automation Solutions to improve Financial Data Integration of 
---   **Journal Entries to the General Ledger & Billing Data Integration into the Internal Billing system** that were both on **IBM Mainframe**.) 
+- Broughout Process Innovation by Designing & Developing & Launching global process Automation Business Solutions to improve Financial Data Integration of 
+**Journal Entries to the General Ledger & Billing Data Integration into the Internal Billing system** that were both on **IBM Mainframe**.) 
 
 **[Borusan Mannessmann](https://borusanmannesmann.com)**
 - "Business Intelligence Unit Manager", 
@@ -97,7 +97,7 @@ Since 2017 I've been a mentor at Arts Emergency, which aims to increase access t
 - "Business Intelligence Unit Manager", 
 
 **[Ak Investment](https://akyatirim.com.tr/)**
-- "Senior System Analyst & Developer ", [Ak Investment](https://akyatirim.com.tr/)
+- "Senior System Analyst & Developer "
 
 🔝 back to top.
 
