@@ -1,8 +1,7 @@
 # 🖖🏻 Sevda Selçik
 Click the links below to navigate within this page:
 
-- 👋🏻"About", [About](https://ge.com/tr/)  
-
+- 👋About
 - 🎁Now
 - 🎁Experience
 - 🎁Projects
