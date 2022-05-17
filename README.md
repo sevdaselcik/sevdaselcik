@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @smartfyco
 - 👀 I’m interested in ML/AI/BigData/Algorithms/FutureTrends
 - 🌱 I’m currently learning Emerging Techs
 - 💞️ I’m looking to collaborate on ...
@@ -48,15 +47,15 @@ Since 2020 I've consulted for organisations on a freelance basis - based on more
 
 [Halkbank](https://halkbank.com.tr/)
 
-[Turk Telekom](https://github.com/github-dark.png#gh-light-mode-only)
+[Turk Telekom](https://turktelekom.com.tr/)
 
-[General Electric](https://github.com/github-dark.png#gh-light-mode-only)
+[General Electric](https://ge.com/tr/)
 
-[Borusan Mannessmann](https://github.com/github-dark.png#gh-light-mode-only)
+[Borusan Mannessmann](https://borusanmannesmann.com)
 
-[Borusan Caterpillar](https://github.com/github-dark.png#gh-light-mode-only)
+[Borusan Caterpillar](https://borusancat.com/tr)
 
-[Ak Investment](https://github.com/github-dark.png#gh-light-mode-only)
+[Ak Investment](https://akyatirim.com.tr/)
 
 
 
