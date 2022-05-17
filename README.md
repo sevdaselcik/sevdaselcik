@@ -83,20 +83,20 @@ Since 2017 I've been a mentor at Arts Emergency, which aims to increase access t
 - **IBM Financial Services Data Model Administration** including Coordination, Management, Design, Architection, Modelling, Documentation, Conducting Trainings, Acting as a Liaison Business & Technical Teams)(Currently **IBM Infosphere Data Architect**) on **IBM DB2**
 - **Software Development** of Corporate Credit Accounts, Regulatory Reports, Management Reports, other projects based on **IBM DB2 Using IBM Visual Age, Visual Age for Java, IBM Mainframe, PL SQL, JCL** .
 
-**[Turk Telekom](https://turktelekom.com.tr/) 2008 - 2017
+**[Turk Telekom](https://turktelekom.com.tr/) 2008 - 2017**
 - "Data Warehouse & Business Intelligence Group Manager & Enterprise KPI Performance Reporting Program Manager", 
 
-**[General Electric](https://ge.com/tr/)
+**[General Electric](https://ge.com/tr/)**
 - Broughout Process Innovation by Designing & Developming & Launchşing global process Automation Solutions to improve Financial Data Integration of 
 --   **Journal Entries to the General Ledger & Billing Data Integration into the Internal Billing system** that were both on **IBM Mainframe**.) 
 
-**[Borusan Mannessmann](https://borusanmannesmann.com)
+**[Borusan Mannessmann](https://borusanmannesmann.com)**
 - "Business Intelligence Unit Manager", 
 
-**[Borusan Caterpillar](https://borusancat.com/tr)
+**[Borusan Caterpillar](https://borusancat.com/tr)**
 - "Business Intelligence Unit Manager", 
 
-**[Ak Investment](https://akyatirim.com.tr/)
+**[Ak Investment](https://akyatirim.com.tr/)**
 - "Senior System Analyst & Developer ", [Ak Investment](https://akyatirim.com.tr/)
 
 🔝 back to top.
