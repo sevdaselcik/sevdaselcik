@@ -61,7 +61,7 @@ Some roles that I've fulfilled:
 Some technical skills that I've used so far:
 - **SQL (Structured Query Language):** (Microsoft, Oracle, Teradata, Sybase, etc)
 - **Prolog, Pascal, Python, R Lang.**
-- *IBM:** DB2, InfoSphere Data Architect, Visual Age for Java, IBM Web Sphere, JCL, PL SQL
+- **IBM:** DB2, InfoSphere Data Architect, Visual Age for Java, IBM Web Sphere, JCL, PL SQL
 - **Microsoft:** Visual Basic, SQL ServerManagement Studio (SSMS), OLAP, Datamart, Analysis Services (SSAS), Integration Services (SSIS), Reporting Services (SSRS) Azure Cloud, Azure Machine Learning Service.
 - **SAP**: BI, BO, Design Studio, HANA
 - **Google:** Cloud
