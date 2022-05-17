@@ -48,15 +48,15 @@ Since 2020 I've consulted for organisations on a freelance basis - based on more
 
 - "Data Architect & Data Model Administrator& Software Developer & Application Developer & Senior System Analyst" [Halkbank](https://halkbank.com.tr/)
 
-- "Business Intelligence Unit Manager", [Turk Telekom](https://turktelekom.com.tr/)
+- "Data Warehouse & Business Intelligence Group Manager & Enterprise KPI Performance Reporting Program Manager", [Turk Telekom](https://turktelekom.com.tr/)
 
-- "Business Intelligence Unit Manager", [General Electric](https://ge.com/tr/)
+- "Gblobal Business Solutions Consultant", [General Electric](https://ge.com/tr/)
 
 - "Business Intelligence Unit Manager", [Borusan Mannessmann](https://borusanmannesmann.com)
 
 - "Business Intelligence Unit Manager", [Borusan Caterpillar](https://borusancat.com/tr)
 
-- "Business Intelligence Unit Manager", [Ak Investment](https://akyatirim.com.tr/)
+- "Senior System Analyst & Developer ", [Ak Investment](https://akyatirim.com.tr/)
 
 
 
