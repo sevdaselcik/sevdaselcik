@@ -1,9 +1,3 @@
-- 👀 I’m interested in ML/AI/BigData/Algorithms/FutureTrends
-- 🌱 I’m currently learning Emerging Techs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- kmklmlkmlknlknlknlknlklknlnk
-
 # 🖖🏻 Sevda Selçik
 Click the links below to navigate within this page:
 
@@ -123,6 +117,12 @@ Digital Art: To produce digital art to express the information based on Quran.
 
 
 # 💭Unrealised Projects
+
+- 👀 I’m interested in ML/AI/BigData/Algorithms/FutureTrends
+- 🌱 I’m currently learning Emerging Techs
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- kmklmlkmlknlknlknlknlklknlnk
 
 <!---
 smartfyco/smartfyco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
