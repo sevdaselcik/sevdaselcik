@@ -9,6 +9,8 @@ Click the links below to navigate within this page:
 
 👋🏻About
 🎁Now
+🎁Experience
+🎁Projects
 ⏳Education
 🧠Research
 📽Presentations
@@ -46,20 +48,19 @@ Github: SS
 
 Since 2020 I've consulted for organisations on a freelance basis - based on more than 20 years of experience working on interactive projects that blend the analogue and digital to make something new. Some organisations that I've worked with:
 
-- "Data Architect & Data Model Administrator& Software Developer & Application Developer & Senior System Analyst" [Halkbank](https://halkbank.com.tr/)
+# 🎁Experience
 
-- "Data Warehouse & Business Intelligence Group Manager & Enterprise KPI Performance Reporting Program Manager", [Turk Telekom](https://turktelekom.com.tr/)
+- "Data Architect & Data Model Administrator& Software Developer & Application Developer & Senior System Analyst" [Halkbank](https://halkbank.com.tr/) 
 
-- "Gblobal Business Solutions Consultant", [General Electric](https://ge.com/tr/)
+- "Data Warehouse & Business Intelligence Group Manager & Enterprise KPI Performance Reporting Program Manager", [Turk Telekom](https://turktelekom.com.tr/) 
 
-- "Business Intelligence Unit Manager", [Borusan Mannessmann](https://borusanmannesmann.com)
+- "Gblobal Business Solutions Consultant", [General Electric](https://ge.com/tr/)  
 
-- "Business Intelligence Unit Manager", [Borusan Caterpillar](https://borusancat.com/tr)
+- "Business Intelligence Unit Manager", [Borusan Mannessmann](https://borusanmannesmann.com)  
 
-- "Senior System Analyst & Developer ", [Ak Investment](https://akyatirim.com.tr/)
+- "Business Intelligence Unit Manager", [Borusan Caterpillar](https://borusancat.com/tr) 
 
-
-
+- "Senior System Analyst & Developer ", [Ak Investment](https://akyatirim.com.tr/)  
 
 Since 2019 I've been the Lecturer in Creative Computing on the Diploma in Creative Computing at the Creative Computing Institute, Camberwell, University of the Arts London. Watch a presentation from me and the inaugural cohort.
 
@@ -76,7 +77,29 @@ Since 2017 I've been a mentor at Arts Emergency, which aims to increase access t
 
 **Doctorate, Social Science, Business Administration**, [Istanbul University](https://istanbul.edu.tr/tr/_) Ongoing
 
+# 🎁Projects
 
+**[Halkbank](https://halkbank.com.tr/) 1996 - 2003**
+- **IBM Financial Services Data Model Administration** including Coordination, Management, Design, Architection, Modelling, Documentation, Conducting Trainings, Acting as a Liaison Business & Technical Teams)(Currently **IBM Infosphere Data Architect**) on **IBM DB2**
+- **Software Development** of Corporate Credit Accounts, Regulatory Reports, Management Reports, other projects based on **IBM DB2 Using IBM Visual Age, Visual Age for Java, IBM Mainframe, PL SQL, JCL** .
+
+**[Turk Telekom](https://turktelekom.com.tr/) 2008 - 2017
+- "Data Warehouse & Business Intelligence Group Manager & Enterprise KPI Performance Reporting Program Manager", 
+
+**[General Electric](https://ge.com/tr/)
+- Broughout Process Innovation by Designing & Developming & Launchşing global process Automation Solutions to improve Financial Data Integration of 
+--   **Journal Entries to the General Ledger & Billing Data Integration into the Internal Billing system** that were both on **IBM Mainframe**.) 
+
+**[Borusan Mannessmann](https://borusanmannesmann.com)
+- "Business Intelligence Unit Manager", 
+
+**[Borusan Caterpillar](https://borusancat.com/tr)
+- "Business Intelligence Unit Manager", 
+
+**[Ak Investment](https://akyatirim.com.tr/)
+- "Senior System Analyst & Developer ", [Ak Investment](https://akyatirim.com.tr/)
+
+🔝 back to top.
 
 # 🧠Research
 # 📽Presentations
