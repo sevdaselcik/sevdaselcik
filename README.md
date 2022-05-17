@@ -117,7 +117,8 @@ Since 2017 I've been researching on two long term projects:
 🔝 back to top.
 
 # 💭Unrealised Projects
-- 👀 I’m interested in ML/AI/BigData/Algorithms/FutureTrends
+# 👀 I’m interested in 
+- to be writer, researcher, colloborate on digital arts, information systems, ML/AI/BigData/Algorithms/FutureTrends, ..
 - 🌱 I’m currently learning Emerging Techs
 - 💞️ I’m looking to collaborate on ...
 
