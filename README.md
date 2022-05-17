@@ -46,17 +46,17 @@ Github: SS
 
 Since 2020 I've consulted for organisations on a freelance basis - based on more than 20 years of experience working on interactive projects that blend the analogue and digital to make something new. Some organisations that I've worked with:
 
-[Halkbank](https://halkbank.com.tr/)
+- "Data Architect & Data Model Administrator& Software Developer & Application Developer & Senior System Analyst" [Halkbank](https://halkbank.com.tr/)
 
-[Turk Telekom](https://turktelekom.com.tr/)
+- "Business Intelligence Unit Manager", [Turk Telekom](https://turktelekom.com.tr/)
 
-[General Electric](https://ge.com/tr/)
+- "Business Intelligence Unit Manager", [General Electric](https://ge.com/tr/)
 
-[Borusan Mannessmann](https://borusanmannesmann.com)
+- "Business Intelligence Unit Manager", [Borusan Mannessmann](https://borusanmannesmann.com)
 
-[Borusan Caterpillar](https://borusancat.com/tr)
+- "Business Intelligence Unit Manager", [Borusan Caterpillar](https://borusancat.com/tr)
 
-[Ak Investment](https://akyatirim.com.tr/)
+- "Business Intelligence Unit Manager", [Ak Investment](https://akyatirim.com.tr/)
 
 
 
