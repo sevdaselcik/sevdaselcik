@@ -102,7 +102,7 @@ Since 2017 I've been a mentor at Arts Emergency, which aims to increase access t
 
 # 📚Awards
 
-- **The Winner of Prof.Dr.M. Orhan DİKMEN Research Competition and Economic Research Foundation Thesis Awarding Competition Award**, Publisher: [IAV](https://iav.org.tr/prof-dr-m-orhan-dikmen-arastirma-yarismasi-ile-iktisadi-arastirmalar-vakfi-tez-odullendirmesi-yarismasi-odul-toreni-2/), 2019
+- **The Winner of Prof.Dr.M. Orhan DİKMEN Research Competition and Economic Research Foundation Thesis Awarding Competition Award**, [IAV](https://iav.org.tr/prof-dr-m-orhan-dikmen-arastirma-yarismasi-ile-iktisadi-arastirmalar-vakfi-tez-odullendirmesi-yarismasi-odul-toreni-2/), 2019
 
 
 # 💭Unrealised Projects
