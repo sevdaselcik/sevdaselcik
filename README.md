@@ -12,7 +12,6 @@ Click the links below to navigate within this page:
 - 💭Unrealised Projects
 
 # 👋🏻About
-
 I am a consultant on **information technology, digital transformation, big data, computer science, management information systems, artificial intelligence, research & development** . 
 
 In learning I'm interested in **data modelling**, **knowledge graphs**, **digital art** and being **anti-obsfucatory**, or **against the obscuring of communication**.
@@ -33,35 +32,25 @@ Github: SS
 
 
 # 🎁Now
-
 Since 2020 I've consulted for organisations on a freelance basis - based on more than 20 years of experience working on interactive projects that blend the analogue and digital to make something new. Some organisations that I've worked with:
 
 - [Halkbank](https://halkbank.com.tr/) 
-
 - [Turk Telekom](https://turktelekom.com.tr/) 
-
 - [General Electric](https://ge.com/tr/)  
-
 - [Borusan Mannessmann](https://borusanmannesmann.com)  
-
 - [Borusan Caterpillar](https://borusancat.com/tr) 
-
 - [Ak Investment](https://akyatirim.com.tr/)  
 
+🔝 back to top.
 
 # 🎁Experience
-
-- "Data Architect & Data Model Administrator& Software Developer & Application Developer & Senior System Analyst" [Halkbank](https://halkbank.com.tr/) 
-
-- "Data Warehouse & Business Intelligence Group Manager & Enterprise KPI Performance Reporting Program Manager", [Turk Telekom](https://turktelekom.com.tr/) 
-
-- "Gblobal Business Solutions Consultant", [General Electric](https://ge.com/tr/)  
-
-- "Business Intelligence Unit Manager", [Borusan Mannessmann](https://borusanmannesmann.com)  
-
-- "Business Intelligence Unit Manager", [Borusan Caterpillar](https://borusancat.com/tr) 
-
-- "Senior System Analyst & Developer ", [Ak Investment](https://akyatirim.com.tr/)  
+- Data Architect & Data Model Administrator 
+- Software Developer & Application Developer 
+- Senior System Analyst 
+- Data Warehouse & Business Intelligence Group Manager 
+- Enterprise KPI Performance Reporting Program Manager
+- Gblobal Business Solutions Consultant
+- Business Intelligence Unit Manager
 
 Since 2019 I've been the Lecturer in Creative Computing on the Diploma in Creative Computing at the Creative Computing Institute, Camberwell, University of the Arts London. Watch a presentation from me and the inaugural cohort.
 
@@ -71,64 +60,50 @@ Since 2017 I've been a mentor at Arts Emergency, which aims to increase access t
 
 
 # ⏳Education
+- **Bachelor of Science, Mathematics & Computer Science**, [Middle East Technical University](https://metu.edu.tr/tr), 1996
+- **Master, Social Science, Business Administration**, [Istanbul University](https://istanbul.edu.tr/tr/_), 2019
+- **Doctorate, Social Science, Business Administration**, [Istanbul University](https://istanbul.edu.tr/tr/_) Ongoing
 
-**Bachelor of Science, Mathematics & Computer Science**, [Middle East Technical University](https://metu.edu.tr/tr), 1996
-
-**Master, Social Science, Business Administration**, [Istanbul University](https://istanbul.edu.tr/tr/_), 2019
-
-**Doctorate, Social Science, Business Administration**, [Istanbul University](https://istanbul.edu.tr/tr/_) Ongoing
+🔝 back to top.
 
 # 🎁Projects
-
-- **IBM Financial Services Data Model Administration** including Coordination, Management, Design, Architection, Modelling, Documentation, Conducting Trainings, Acting as a Liaison Business & Technical Teams)(Currently **IBM Infosphere Data Architect**) on **IBM DB2** **[Halkbank](https://halkbank.com.tr/) 1996 - 2003**
-- **Software Development** of Corporate Credit Accounts, Regulatory Reports, Management Reports, other projects based on **IBM DB2 Using IBM Visual Age, Visual Age for Java, IBM Mainframe, PL SQL, JCL** .**[Halkbank](https://halkbank.com.tr/) 1996 - 2003**
-
-- "Data Warehouse & Business Intelligence Group Manager & Enterprise KPI Performance Reporting Program Manager", **[Turk Telekom](https://turktelekom.com.tr/) 2008 - 2017**
-
-- Broughout Process Innovation by Designing & Developing & Launching global process Automation Business Solutions to improve Financial Data Integration of 
-**Journal Entries to the General Ledger & Billing Data Integration into the Internal Billing system** that were both on **IBM Mainframe**.) **[General Electric](https://ge.com/tr/)**
-
-- "Business Intelligence Unit Manager", **[Borusan Mannessmann](https://borusanmannesmann.com)**
-
-- "Business Intelligence Unit Manager", **[Borusan Caterpillar](https://borusancat.com/tr)**
-
-- "Senior System Analyst & Developer " **[Ak Investment](https://akyatirim.com.tr/)**
+- **IBM Financial Services Data Model Administration** (Currently **IBM Infosphere Data Architect**) on **IBM DB2** 
+- **Corporate Credit Accounts, Regulatory Reports, Management Reports, Customer Profitability, Service Contracts 
+- **IBM DB2 Using IBM Visual Age, Visual Age for Java, IBM Mainframe, PL SQL, JCL**
+- **Enterprise KPI Performance Reporting, Dashboards**
+- **Improving Financial Data Integration of Journal Entries to the General Ledger & Billing Data Integration into the Internal Billing system bt designing new solutions**
+- **KPI Catalog, Data Governance Committee Management**
 
 🔝 back to top.
 
 # 🧠Research
 Since 2017 I've been researching on two long term projects:
-
-Universal Info: Text Intelligence project to analyze information in the Quran.
-Digital Art: To produce digital art to express the information based on Quran.
-
+- Universal Info: Text Intelligence project to analyze information in the Quran.
+- Digital Art: To produce digital art to express the information based on Quran.
 
 🔝 back to top.
 
 # 📚Publications
 
-**Thesis : **
-
+**Thesis :**
 - **Financial bankruptcy prediction: An application in the BIST**, Publisher: [YOK.Gov.tr](https://tez.yok.gov.tr/UlusalTezMerkezi/tezDetay.jsp?id=k3VQwG_MCX6WHZd4UexUsA&no=-pKkv-hlRGl6fHMaD67q7w), 2019
 
 **Congress :**
-
 - Social Science, Business Administration**, [Istanbul University](https://istanbul.edu.tr/tr/_), 2019
 - Social Science, Business Administration**, [Yıldız University](https://istanbul.edu.tr/tr/_), 2019
 
 **Book :**
-
 - **Financial bankruptcy prediction: An application in the BIST**, Publisher: [IAV](https://iav.org.tr/prof-dr-m-orhan-dikmen-arastirma-yarismasi-ile-iktisadi-arastirmalar-vakfi-tez-odullendirmesi-yarismasi-odul-toreni-2/), 2019
 
+🔝 back to top.
 
 
 # 📚Awards
-
 - **The Winner of Prof.Dr.M. Orhan DİKMEN Research Competition and Economic Research Foundation Thesis Awarding Competition Award**, [IAV](https://iav.org.tr/prof-dr-m-orhan-dikmen-arastirma-yarismasi-ile-iktisadi-arastirmalar-vakfi-tez-odullendirmesi-yarismasi-odul-toreni-2/), 2019
 
+🔝 back to top.
 
 # 💭Unrealised Projects
-
 - 👀 I’m interested in ML/AI/BigData/Algorithms/FutureTrends
 - 🌱 I’m currently learning Emerging Techs
 - 💞️ I’m looking to collaborate on ...
