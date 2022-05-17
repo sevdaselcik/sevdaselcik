@@ -91,8 +91,8 @@ Since 2017 I've been researching on two long term projects:
 - **Financial bankruptcy prediction: An application in the BIST**, Publisher: [YOK.Gov.tr](https://tez.yok.gov.tr/UlusalTezMerkezi/tezDetay.jsp?id=k3VQwG_MCX6WHZd4UexUsA&no=-pKkv-hlRGl6fHMaD67q7w), 2019
 
 **Congress :**
-- Yildiz International Social Sciences Congress**, [Yildiz University](https://sbe.yildiz.edu.tr/media/files/KongreProgramSON.pdf), 2019
-- III. International Conference on Global Competition and Innovation Management, [Istanbul University](https://kry2021.istanbul.edu.tr/tr/_), 2019
+- Performance Analysis of Domestic and Foreign Banks in Turkey, Yildiz International Social Sciences Congress**, [Yildiz University](https://sbe.yildiz.edu.tr/media/files/KongreProgramSON.pdf), 2019
+- Profitability Prediction in Manufacturing Industry and An Application on BIST Istanbul Stock Exchange, TurkeyIII. International Conference on Global Competition and Innovation Management, [Istanbul University](https://kry2021.istanbul.edu.tr/tr/_), 2019
 
 **Book :**
 - **Financial bankruptcy prediction: An application in the BIST**, Publisher: [IAV](https://iav.org.tr/prof-dr-m-orhan-dikmen-arastirma-yarismasi-ile-iktisadi-arastirmalar-vakfi-tez-odullendirmesi-yarismasi-odul-toreni-2/), 2019
